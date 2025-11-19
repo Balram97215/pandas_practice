@@ -6,14 +6,16 @@
 
 ## 🎯 Project Goal
 
-This repository serves as a personal portfolio piece to demonstrate proficiency in:
+This repository serves as a personal portfolio piece to demonstrate proficiency in core data manipulation and analysis using the **Pandas library**, specifically covering the following topics and techniques:
 
-* Data ingestion and cleaning.
-* Data exploration and filtering.
-* Aggregation and grouping operations.
-* Data transformation and feature engineering.
+* **Data Ingestion, Filtering, and Sorting** (`01_Getting_&_Knowing_Your_Data`, `02_Filtering_&_Sorting`).
+* **Data Structure** (Creating Series and DataFrames).
+* **Aggregation and Transformation** (`03_Grouping`, `04_Apply`, `05_Merge`, `06_Stats`).
+* **Data Cleaning and Indexing** (`10_Deleting`, `11_Indexing`).
+* **Time Series Analysis** (`09_Time_Series`).
+* **Visualization** (`07_Visualization`).
 
-The notebooks focus on core Pandas functionality, preparing real-world data for machine learning and analytical tasks.
+By completing these exercises, the repository proves the ability to handle structured datasets for real-world analytical and data science applications.
 
 ---
 
